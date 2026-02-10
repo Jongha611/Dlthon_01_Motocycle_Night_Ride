@@ -1,0 +1,26 @@
+# Data & Models (용량이 크므로로)
+data/
+*.zip
+*.tar.gz
+*.pth
+*.h5
+*.weights
+*.pkl
+*.png
+
+# Python 캐시 및 환경
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Jupyter Notebook 캐시
+.ipynb_checkpoints
+
+# OS 및 에디터 설정
+.DS_Store
+.vscode/
+.idea/
